@@ -5,7 +5,7 @@ html,body {
    height: 100%;
    width: 100%;
 }
-body,p {
+body,p,ul {
    margin: 0;
    padding: 0;
 }
@@ -512,7 +512,7 @@ li {
 }
 .top_icon img{
    background: #cd0000;
-   width: 22px;
+   width: 10%;
    padding: 5px;
    cursor: pointer;
 }
