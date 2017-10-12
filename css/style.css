@@ -165,10 +165,11 @@ li {
    margin-top: 22%;
 }
 .picture_fl_txt p {
-   font-size: 24px;
-   font-weight: 600;
+   font-size: 1.2em;
    margin: 10px 0;
-   opacity: 0.8;
+   color: rgb(17, 111, 177);
+   font-weight: 600;
+   text-shadow: 1px 1px 2px rgb(124, 161, 187);
 }
 .picture_fr img {
    max-width: 100%;
